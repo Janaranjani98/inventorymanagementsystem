@@ -10,5 +10,9 @@
         <module name="inventorymanagementsystem.inventorymanagementsystem.main" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="inventorymanagementsystem.inventorymanagementsystem.main~1" target="21" />
+      <module name="inventorymanagementsystem.inventorymanagementsystem.test~1" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>
